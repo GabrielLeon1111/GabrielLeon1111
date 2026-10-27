@@ -24,7 +24,7 @@ de ellas están **en uso diario** en empresas de Paraguay.
 | [**CarapeguaGym**](https://github.com/GabrielLeon1111/CarapeguaGym) · *en producción* | Socios y membresías, cobros del día, renovaciones, inventario de suplementos y reportes. | Flutter · Riverpod · Supabase |
 | [**La Casa del Barbero**](https://github.com/GabrielLeon1111/LaCasaDelBarbero) | Cortes, venta de productos con costo promedio, insumos, clientes, reportes y sorteos. | Flutter · Riverpod · Supabase |
 | [**Sanatorio**](https://github.com/GabrielLeon1111/SistemaWebSanatorio) | Turnos generados según la agenda del médico, enfermería, atención médica y caja. | GeneXus V18 · Java · SQL Server |
-| [**Estudio Fotográfico**](https://github.com/GabrielLeon1111/-SistemaWebEstudioFotografico) | Reservas, asignación automática de fotógrafos y facturación con seña y saldo. | GeneXus V18 · Java · SQL Server |
+| [**Estudio Fotográfico**](https://github.com/GabrielLeon1111/SistemaWebEstudioFotografico) | Reservas, asignación automática de fotógrafos y facturación con seña y saldo. | GeneXus V18 · Java · SQL Server |
 
 ---
 
